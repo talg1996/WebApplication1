@@ -21,7 +21,7 @@ namespace WebApplication1.Controllers
                 Console.WriteLine($"Output To Output: {model.OutputToOutput} V");
                 Console.WriteLine($"Number Of Outputs: {model.NumberOfOutput}");
 
-                // Perform your test logic here
+                // Perform your test logic her e
 
 
 
